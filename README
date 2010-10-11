@@ -1,0 +1,1 @@
+To install, just place Mplayer.app to your Applications directory. If your mplayer installed to other than /opt/local/bin/mplayer path, or your movies aren't stored in Movies direcrory, change the corresponding values in Mplayer.app/Contents/Resources/Scripts/main.scpt.
